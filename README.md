@@ -1,5 +1,5 @@
 # Time-Guided Causal Structure Reconstruction Network (TGCSRN)
-submitted to AAAI 2024
+submitted to WWW 2024
 
 # How to run
 It's very simple to run, just modify the `data_name` in `main.py`
